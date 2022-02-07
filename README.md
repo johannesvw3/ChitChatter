@@ -1,8 +1,8 @@
-# ChatApp
+# ChitChatter
 
 ## Overview
 
-ChatApp is a chat app for mobile devices using React Native. The app provides users with a chat interface and options to share images and their location.
+ChitChatter is a chat app for mobile devices using React Native. The app provides users with a chat interface and options to share images and their location.
 
 ## Key Features
 
